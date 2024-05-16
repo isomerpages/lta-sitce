@@ -9,15 +9,15 @@ sections:
   - hero:
       title: SITCE 2024
       subtitle: Singapore International Transport Congress and Exhibition
-      background: /images/hero-banner.png
+      background: /images/Frame_16__1_.png
       button: View programme
       url: /contact-us/
       variant: center
   - infobar:
       title: Smarter Journeys for Sustainable Cities
       subtitle: Theme for SITCE 2024
-      description: "This year SITCE will explore key issues on sustainability,
-        accessibility, and smart technology. "
+      description: This year SITCE will explore key issues on sustainability,
+        accessibility, and smart technology.
       url: /faq/
   - infopic:
       title: The leading transport event in Asia Pacific
