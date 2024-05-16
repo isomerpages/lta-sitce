@@ -1,8 +1,15 @@
 logo: /images/Group_1312.png
 links:
   - title: About
-    url: /contact-us/
+    url: /about
+  - title: Test
+    collection: programme
   - title: Programme
-    url: /example-page/
-  - title: Programme
+    url: /programme
+    sublinks:
+      - title: Programme
+        url: /Programme
+      - title: Speakers
+        url: /speakers
+  - title: Booths
     collection: programme
