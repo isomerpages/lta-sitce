@@ -26,10 +26,12 @@ sections:
         stakeholders passionate about advancing our transport networks and
         redefining urban journeys
       alt: Image alt text
+      image: /images/image_41.png
   - infopic:
       title: Exhibition and partnerships
       id: infopic
       description: Maximaise the visibility of your brand on a global stage and
         showcase the latest products and innovations on a global stage.
       alt: Image alt text
+      image: /images/image_37.png
 ---
