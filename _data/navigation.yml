@@ -5,11 +5,13 @@ links:
   - title: Programme
     url: /programme
     sublinks:
-      - title: Programme
-        url: /programme
       - title: Speakers
         url: /speakers
+      - title: 8 Dec 2024
+        url: /8Dec
+      - title: 9 Dec 2024
+        url: /9Dec
+      - title: 10 Dec 2024
+        url: /10Dec
   - title: Booths
     url: /booths
-  - title: New folder
-    collection: programme
