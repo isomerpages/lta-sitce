@@ -2,5 +2,6 @@ collections:
   programme:
     output: true
     order:
+      - 9 Dec 2024.md
       - Speakers.md
       - 8 Dec 2024.md
