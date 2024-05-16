@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h2>About SITCE 2024</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/image_39.png">
+</div>
 <p>LTA-UITP Singapore International Transport Congress &amp; Exhibition (SITCE)
 is a leading transport event held every two years in the Asia-Pacific region.
 <br>
