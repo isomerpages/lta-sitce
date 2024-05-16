@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Speakers.md
-      - Programme.md
+      - 8 Dec 2024.md
