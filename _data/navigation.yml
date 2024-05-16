@@ -4,5 +4,5 @@ links:
     url: /contact-us/
   - title: Programme
     url: /example-page/
-  - title: Booths
-    collection: example-folder
+  - title: Programme
+    collection: programme
